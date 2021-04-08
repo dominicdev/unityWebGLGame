@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "375384015153-6p87pasqdsrcei6qeftmetpms2tag1t1.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AJjt0-opl2_AyHcS0ZRsMz0PziZP3po"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:375384015153:ios:1046e75432a48d4e", 
+        "android_client_info": {
+          "package_name": "co.Kate.testing"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "kate-testing.appspot.com", 
+    "project_id": "kate-testing", 
+    "firebase_url": "https://kate-testing.firebaseio.com", 
+    "project_number": "375384015153"
+  }
+}
